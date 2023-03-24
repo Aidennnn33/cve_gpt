@@ -1,13 +1,4 @@
-  
-                                _   
-                               | |  
-   _____   _____     __ _ _ __ | |_ 
-  / __\ \ / / _ \   / _` | '_ \| __|
- | (__ \ V /  __/  | (_| | |_) | |_ 
-  \___| \_/ \___|   \__, | .__/ \__|
-              ______ __/ | |        
-             |______|___/|_|
-             
+      
 # cve_gpt Introduction
 The API service provided by wgpsec/urlscan is a code that shows basic IPs, domains, and title information based on information from  [urlscan.io](http://urlscan.io/)'s API and Baidu, China's largest search engine. Based on this concept, I created **cve_gpt**, a code based on an OSINT search engine, Criminal IP's API that finds and shows IP and domain information, cve_id, and descriptions when there is a vulnerability in the connected IP address just by entering a keyword or domain.
 
